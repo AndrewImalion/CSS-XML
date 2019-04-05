@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--copyright GreatBaaron,2019, All Rights Reserved.-->
+<?xml-stylesheet type="text/xsl" href="avas.xsl"?>
+<MAINA>
+<AvaCard>
+  <AvaId>av-01-jinx</AvaId>
+  <NOMINE>Jinx</NOMINE>
+  <GENDER>F</GENDER>
+  <BDAY>24,Oct</BDAY>
+  <FUNDS>2000</FUNDS>
+  <QUOTE>你又不是我的老板</QUOTE>
+  
+  <TALENTS>
+    罪恶快感
+  </TALENTS>
+
+  <OCCUPATION>
+    电竞选手-效力于仁者战队
+  </OCCUPATION>
+
+  <SKILLS>
+    电竞(5);恶作剧(5)
+  </SKILLS>
+
+  <LOCATION>来自遥远地方</LOCATION>
+
+  <NOTES>we are not copyright-holder of this avatar</NOTES>
+  
+</AvaCard>
+</MAINA>
